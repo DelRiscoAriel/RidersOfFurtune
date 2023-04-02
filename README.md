@@ -7,3 +7,5 @@ the Dragon.
 
 The player must choose to explore or skip the levels until he reaches the the Drangon, but without a good weapon 
 and enough XP, Yarra is sure to fail. 
+
+![20230402_16281076](https://user-images.githubusercontent.com/69070833/229377374-48b102bb-1bd5-47d5-bc43-a95f50efe9b7.png)
