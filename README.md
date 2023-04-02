@@ -1,4 +1,4 @@
-# RidersOfFurtune
+# Riders Of Furtune
 Text-based fantasy style board game done in C++.
 
 You play Yarra, a young horseman in search of the of the illustrious Chalice of Knowledge, an artifact 
